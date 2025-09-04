@@ -79,7 +79,7 @@ $captcha_question = "What is {$_SESSION['captcha_a']} + {$_SESSION['captcha_b']}
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta name="description" content="Them Cold Blooded Drifters - Official site. Music, live shows, booking, and merch store.">
+        <meta name="description" content="Them Coldblooded Drifters - Official site. Music, live shows, booking, and merch store.">
         <meta name="keywords" content="rock band, live music, album, booking, merch, stoner metal, stoner, weed, salt lake city, local music, salt lake, utah, bands, music">
         <meta name="robots" content="index, follow">
 
