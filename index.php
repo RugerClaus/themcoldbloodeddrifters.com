@@ -86,7 +86,7 @@ $captcha_question = "What is {$_SESSION['captcha_a']} + {$_SESSION['captcha_b']}
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="styles/main.css">
-        <title>Them Cold Blooded Drifters</title>
+        <title>Them Coldblooded Drifters</title>
     </head>
     <body>
 
